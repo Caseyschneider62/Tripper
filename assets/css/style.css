@@ -10,7 +10,7 @@
   clear: both;
   margin-top: 10px;
   background-color: #00FFFF;
-  text-align: left;
+  text-align: right;
   color: black;
 
 
@@ -49,15 +49,15 @@ img {
 footer {
   padding: 30px 0;
   clear: both;
-  font-size: 12px;
-  color: #fff;
-  color: #ccc;
+  font-size: 15px;
+  /*color: #fff;*/
+  /*color: #ccc;*/
   text-align: center;
   background: #8A2BE2;
   border-top: 25px solid #00FFFF;
-  margin-top: 0px;
+  margin-top: 10px;
   height: 125px;
-  margin-right: -808px;
+  margin-right: -637px;
 
 }
 
